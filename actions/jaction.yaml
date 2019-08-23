@@ -3,7 +3,7 @@ name: "j_action"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
-entry_point: "my_j_action.py"
+entry_point: "jaction.py"
 parameters:
     message:
         type: "string"
