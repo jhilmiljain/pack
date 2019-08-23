@@ -1,9 +1,9 @@
 ---
-name: "myaction"
+name: "echo_action"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
-entry_point: "myaction.py"
+entry_point: "my_echo_action.py"
 parameters:
     message:
         type: "string"
