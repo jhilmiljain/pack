@@ -3,7 +3,7 @@ name: "echo_action"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
-entry_point: "my_echo_action.py"
+entry_point: "jaction.py"
 parameters:
     message:
         type: "string"
