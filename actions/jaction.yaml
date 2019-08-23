@@ -1,9 +1,9 @@
 ---
-name: "jaction"
+name: "myaction"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
-entry_point: "jaction.py"
+entry_point: "myaction.py"
 parameters:
     message:
         type: "string"
