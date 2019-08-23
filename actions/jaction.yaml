@@ -5,7 +5,7 @@ description: "Print message to standard output."
 enabled: true
 entry_point: "my_echo_action.py"
 parameters:
-    message:"hello"
+    message: "hello"
         type: "string"
         description: "Message to print."
         required: true
