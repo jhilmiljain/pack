@@ -1,5 +1,5 @@
 ---
-name: "echo_action"
+name: "jaction"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
