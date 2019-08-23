@@ -1,5 +1,5 @@
 ---
-name: "actions"
+name: "ishan"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
