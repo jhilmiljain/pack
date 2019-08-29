@@ -1,5 +1,5 @@
 ---
-class_name: "JAction"
+class_name: "Jsensor"
 entry_point: "sense1.py"
 description: "Test sensor that emits triggers."
 trigger_types:
